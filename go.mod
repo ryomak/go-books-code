@@ -6,7 +6,7 @@ require (
 	github.com/gin-contrib/sse v0.0.0-20190301062529-5545eab6dad3 // indirect
 	github.com/gin-gonic/gin v1.3.0
 	github.com/golang/protobuf v1.3.1 // indirect
-	github.com/goml/gobrain v0.0.0-20190330120320-499982ed3a48 // indirect
+	github.com/goml/gobrain v0.0.0-20190330120320-499982ed3a48
 	github.com/mattn/go-isatty v0.0.7 // indirect
 	github.com/ryomak/go-learning v0.0.0-20190220020204-f67a4a812b59
 	github.com/ugorji/go v1.1.4 // indirect
